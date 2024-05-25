@@ -1,0 +1,9 @@
+﻿  QueueLine.cpp
+C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\QueueLine\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\QueueLine\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\QueueLine\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\QueueLine\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\QueueLine\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\QueueLine\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\QueueLine\clsQueueLine.h(108,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  QueueLine.vcxproj -> C:\Users\olaal\Desktop\Hadhud\Data_Structure_13\Project8-queueLine\QueueLine\x64\Debug\QueueLine.exe
